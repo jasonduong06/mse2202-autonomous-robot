@@ -4,16 +4,30 @@ Team project for MSE2202 (Mechatronic Systems Engineering), Western University.
 
 An autonomous robot system that collects erasers from an arena and sorts out the green ones using colour sensing.
 
+![Final robot](Phase%203%20Product%20Design/Product%20Generation/images/final_robot.png)
+
 ## How it works
 
 - **Scavenger robot:** rectangular chassis with front-wheel drive and a rear caster. It follows a predetermined path using encoder feedback and collects objects with an angled front plow.
 - **Stationary sorting station:** an elevator lifts the collected objects into a curved funnel. A motor-driven flipper prevents jamming. A stepper-driven sorting wheel indexes each eraser under a colour sensor, and a servo diverts the green ones into a bucket.
+
+![System workflow](Phase%203%20Product%20Design/Product%20Generation/images/workflowdiagram.png)
 
 **Hardware and tools:** ESP32, DC gear motors, stepper motor, servo, colour sensor, encoders, SolidWorks/CAD, 3D printing, Arduino/C++
 
 ## My contribution
 
 - Designed the chassis in CAD, wrote the sorting firmware, built the elevator
+
+## Gallery
+
+| Chassis | Plow | Elevator system |
+|---|---|---|
+| ![Chassis](Phase%203%20Product%20Design/Product%20Generation/images/chassisirl.png) | ![Plow](Phase%203%20Product%20Design/Product%20Generation/images/plow2.png) | ![Elevator](Phase%203%20Product%20Design/Product%20Generation/images/elevator_system.png) |
+
+| Funnel assembly | Sorting mechanism | Sorting wheel (built) |
+|---|---|---|
+| ![Funnel](Phase%203%20Product%20Design/Product%20Generation/images/funnel_assembly.png) | ![Sorting mechanism](Phase%203%20Product%20Design/Product%20Generation/images/sorting_mechanism.png) | ![Sorting built](Phase%203%20Product%20Design/Product%20Generation/images/sorting3real.png) |
 
 ## Project documentation
 
