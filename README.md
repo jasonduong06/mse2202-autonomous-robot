@@ -13,7 +13,7 @@ An autonomous robot system that collects erasers from an arena and sorts out the
 
 ## My contribution
 
-- [Designed the chassis in CAD, wrote the sorting firmware, built the elevator]
+- Designed the chassis in CAD, wrote the sorting firmware, built the elevator
 
 ## Project documentation
 
