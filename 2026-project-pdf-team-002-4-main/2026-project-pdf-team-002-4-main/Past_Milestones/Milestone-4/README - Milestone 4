@@ -1,0 +1,10 @@
+All of the code files that are relevant to Milestone 4 can be found in the file "Arduino Code Folder - Milestone 4" those files are:
+driveCode.ino
+elevatorCode.ino
+fullStepperColourSensorCode
+
+All other files from previous milestones have been moved to the new "Past_Milestones" folder.
+
+the pdf file in the repository named "Colour Sensor Thresholds" is our submission for the threshold determination of the colour sensor
+
+The submission video is attached to the owl submission box, we could not rename the file.
